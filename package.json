@@ -1,6 +1,6 @@
 {
   "name": "arw-parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Parse an ARW text file used in some scientific instrument",
   "main": "./src/index.js",
   "files": [
