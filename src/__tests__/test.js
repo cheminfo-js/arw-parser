@@ -12,5 +12,4 @@ test('arw-parser test', () => {
   expect(parsed.data.y).toHaveLength(2501);
   expect(parsed.info.SampleName).toBe('Test sample');
   expect(parsed).toMatchSnapshot();
-  console.log(parsed.info);
 });
